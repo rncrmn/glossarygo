@@ -15,7 +15,7 @@ const App: Component = () => {
   return (
     <div class={darkMode() ? "dark" : ""}>
       <div class="bg-slate-100 w-full min-h-screen px-6 flex flex-col justify-center items-center md:px-0 dark:bg-stone-950">
-        <div class="max-w-[600px] w-full m-auto py-2">
+        <div class="max-w-[600px] w-full m-auto">
           <Header />
           <DictionaryForm />
           <Show when={data()}>

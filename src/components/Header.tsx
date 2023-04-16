@@ -3,7 +3,7 @@ import { darkMode, setDarkMode } from "../userState";
 
 const Header: Component = () => {
   return (
-    <header class="py-4">
+    <header class="py-2 mb-2">
       <div class=" flex justify-between items-center">
         <a href="/">
           <svg

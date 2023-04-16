@@ -1,3 +1,5 @@
+![glossarygo app](https://user-images.githubusercontent.com/55722725/232280771-45341238-40a9-4b4b-b968-d0350cda7f79.png)
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.

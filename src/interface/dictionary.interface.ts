@@ -19,4 +19,5 @@ export interface ApiResponse {
   phonetic: string;
   phonetics: Phonetic[];
   pronunciation?: string;
+  sourceUrls: string[];
 }

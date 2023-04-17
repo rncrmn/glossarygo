@@ -12,7 +12,7 @@ const KeywordBox: Component = () => {
   return (
     <div class="flex justify-between items-center font-serif mb-4">
       <div class="p-2">
-        <p class="text-4xl font-bold mb-2 tracking-wider text-gray-900 dark:text-gray-50">
+        <p class="text-4xl font-bold mb-2 tracking-wider text-gray-900 dark:text-gray-200">
           {data()?.word}
         </p>
         <span class="text-xl font-mono text-violet-700 dark:text-violet-400">
